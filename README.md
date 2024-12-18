@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhondiram12  
 - 👀 I’m interested in JavaScript, MERN stack development, and creating responsive web applications.  
-- 🌱 I’m currently learning React.js and improving my skills in JavaScript, HTML, CSS, and Java.  
+- 🌱 I’m currently learning React.js and improving my skills in MongoDB, Node.js, Express.Js, JavaScript, HTML, CSS, and Java.  
 - 💞️ I’m looking to collaborate on MERN stack projects, especially innovative ones like "Grocery Genie."  
 - 📫 How to reach me: You can connect with me via LinkedIn or email for collaboration opportunities.  
 - 😄 Pronouns: He/Him  
